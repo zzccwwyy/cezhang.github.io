@@ -1,5 +1,5 @@
 # Ce Zhang
-Ph.D. Candidate, University of Alberta  
+Ph.D. Candidate in Statistics, University of Alberta, supervised by [Professor Linglong Kong](https://sites.ualberta.ca/~lkong/) and [Professor Bei Jiang](https://sites.ualberta.ca/~bei1/).  
 
 <img src="cz.png" alt="Ce Zhang" width="200">
 
