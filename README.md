@@ -1,6 +1,8 @@
 # Ce Zhang
 Ph.D. Candidate, University of Alberta  
 
+<img src="cz.png" alt="Ce Zhang" width="200">
+
 ## Research Interests
 Predictive inference, Trustworthy machine learning, Conformal Predictions, Differential Privacy, Transfer Learning, Subsampling, Longitude Data Analysis.
 
