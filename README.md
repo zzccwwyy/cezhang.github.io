@@ -16,7 +16,7 @@ Predictive inference, Trustworthy machine learning, Conformal Predictions, Diffe
 
 4. **Ce Zhang**, Haiwu Huang, Dipankar Bandyopadhyay, Riyadh Rustam Al-Mosawi, and Xuewen Lu. (2025). *Sieve Estimation of the Additive Hazards Model with Bivariate Current Status Data*. *Statistics in Biosciences*. [link](https://link.springer.com/article/10.1007/s12561-024-09436-7)
 
-5. Peng Yu, **Ce Zhang**, Zhihua Su, Wenlu Tang, and Bei Jiang. (2025). *A Bayesian Approach for Data-Driven Clustering with Non-Ignorable Missingness*. *Statistics and Its Interface*. Invited revision submitted. 
+5. **Ce Zhang**, Peng Yu, Zhihua Su, Wenlu Tang, and Bei Jiang. (2025). *A Bayesian Approach for Data-Driven Clustering with Non-Ignorable Missingness*. *Statistics and Its Interface*. Invited revision submitted. 
 
 6. Zengjing Chen, Linglong Kong, Xiaodong Yan, Donglin Zeng, **Ce Zhang**, and Guodong Zhang. (2025). *Sequential Bootstrap for More Powerful Similarity Test*. *Journal of Computational and Graphical Statistics*. Invited revision submitted. 
 
