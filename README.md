@@ -20,7 +20,7 @@ Predictive inference, Trustworthy machine learning, Conformal Predictions, Diffe
 
 6. Zengjing Chen, Linglong Kong, Xiaodong Yan, Donglin Zeng, **Ce Zhang**, and Guodong Zhang. (2025). *Sequential Bootstrap for More Powerful Similarity Test*. *Journal of Computational and Graphical Statistics*. Invited revision submitted. 
 
-7. Andrei Afilipoaei, Venkata Shreya Kala, Jainish Mehta, **Ce Zhang**, Bei Jiang, and Linglong Kong. (2025). *Resolving Data Imbalance in Transfer Learning: A Simple Random Sampling Approach*. *Statistics and Computing*. Invited revision submitted. 
+7. Andrei Afilipoaei, Venkata Shreya Kala, Jainish Mehta, **Ce Zhang**, Bei Jiang, and Linglong Kong. (2025). *Resolving Data Imbalance in Transfer Learning: A Simple Random Sampling Approach*. *Statistics and Computing*. [link](https://link.springer.com/article/10.1007/s11222-025-10811-7). 
 
 8. Yongwei Chen, **Ce Zhang**. (2021). *Identifying the Smooth Transition Structure in Panel Ordered Response Models and Its Application*. *The Journal of Quantitative and Technical Economics*. [link](https://your-link-here)
 
