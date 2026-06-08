@@ -14,7 +14,7 @@ Predictive inference, Trustworthy machine learning, Conformal Predictions, Diffe
 
 3. Zhimiao Cao, **Ce Zhang**, Beibei Lian, Bei Jiang, Linglong Kong, and Xiaodong Yan. (2025). *Split Conformal Prediction with Missing Response*. **Statistics and Computing**. [link](https://link.springer.com/article/10.1007/s11222-025-10722-7)
 
-4. **Ce Zhang**, Hongni Wang, Lingzhu Li, Bei Jiang, Xiaodong Yan and LingLong Kong. (2025). *Distribution-Free Predictive Inference in Health Sciences: A Review of Conformal Prediction Methods for Biostatistics and Epidemiology*, **Biostatistics \& Epidemiology}**, accepted.
+4. **Ce Zhang**, Hongni Wang, Lingzhu Li, Bei Jiang, Xiaodong Yan and LingLong Kong. (2025). *Distribution-Free Predictive Inference in Health Sciences: A Review of Conformal Prediction Methods for Biostatistics and Epidemiology*, **Biostatistics & Epidemiology**, accepted.
   
 5. Zengjing Chen, Linglong Kong, Xiaodong Yan, Donglin Zeng, **Ce Zhang**, and Guodong Zhang. (2025). *Sequential Bootstrap for More Powerful Similarity Test*. **Journal of Computational and Graphical Statistics**. Accepted. 
 
