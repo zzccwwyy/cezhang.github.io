@@ -8,7 +8,7 @@ Predictive inference, Trustworthy machine learning, Conformal Predictions, Diffe
 
 ## Selected Publications
 
-1. **Ce Zhang**, Ting Li, Jinhan Xie, Bei Jiang, and Linglong Kong. (2025). *Transfer Conformal Predictive Inference for Regression*. **Journal of Machine Learning Research**. Accepted. 
+1. **Ce Zhang**, Ting Li, Jinhan Xie, Bei Jiang, and Linglong Kong. (2025). *Transfer Conformal Predictive Inference for Regression*. **Journal of Machine Learning Research**. 
 
 2. **Ce Zhang**, Yixin Han, Xiaodong Yan, Yafei Wang, Linglong Kong, Ting Li, and Bei Jiang. (2025). *Differentially Private Analysis for Binary Response Models: Optimality, Estimation, and Inference*. **Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)**. [link](https://proceedings.mlr.press/v267/zhang25x.html)
 
