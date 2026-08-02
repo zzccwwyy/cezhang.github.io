@@ -22,7 +22,7 @@ Predictive inference, Trustworthy machine learning, Conformal Predictions, Diffe
 
 7. Andrei Afilipoaei, Venkata Shreya Kala, Jainish Mehta, **Ce Zhang**, Bei Jiang, and Linglong Kong. (2025). *Resolving Data Imbalance in Transfer Learning: A Simple Random Sampling Approach*. **Statistics and Computing**. [link](https://link.springer.com/article/10.1007/s11222-025-10811-7). 
 
-8. **Ce Zhang**, Peng Yu, Zhihua Su, Wenlu Tang, and Bei Jiang. (2025). *A Bayesian Approach for Data-Driven Clustering with Non-Ignorable Missingness*. **Statistics and Its Interface**. Invited revision submitted. 
+8. **Ce Zhang**, Peng Yu, Zhihua Su, Wenlu Tang, and Bei Jiang. (2025). *A Bayesian Approach for Data-Driven Clustering with Non-Ignorable Missingness*. **Statistics and Its Interface**. Accepted. 
 
 9. Yongwei Chen, **Ce Zhang**. (2021). *Identifying the Smooth Transition Structure in Panel Ordered Response Models and Its Application*. **The Journal of Quantitative and Technical Economics**. [link](https://your-link-here)
 
