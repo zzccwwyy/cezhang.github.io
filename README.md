@@ -1,5 +1,6 @@
 # Ce Zhang
-Ph.D. in Statistics from the University of Alberta, advised by [Professor Linglong Kong](https://sites.ualberta.ca/~lkong/) and [Professor Bei Jiang](https://sites.ualberta.ca/~bei1/).  
+Postdoctoral Fellow in Statistics at the University of Alberta, working with [Professor Linglong Kong](https://sites.ualberta.ca/~lkong/) and [Professor Bei Jiang](https://sites.ualberta.ca/~bei1/). I received my Ph.D. in Statistics from the University of Alberta under the supervision of Professor Linglong Kong and Professor Bei Jiang. 
+
 
 <img src="cz.png" alt="Ce Zhang" width="200">
 
