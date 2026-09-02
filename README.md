@@ -17,7 +17,7 @@ Predictive inference, Trustworthy machine learning, Conformal Predictions, Diffe
 
 4. **Ce Zhang**, Hongni Wang, Lingzhu Li, Bei Jiang, Xiaodong Yan and LingLong Kong. (2026). *Distribution-Free Predictive Inference in Health Sciences: A Review of Conformal Prediction Methods for Biostatistics and Epidemiology*, **Biostatistics & Epidemiology**, accepted.
   
-5. Zengjing Chen, Linglong Kong, Xiaodong Yan, Donglin Zeng, **Ce Zhang**, and Guodong Zhang. (2025). *Sequential Bootstrap for More Powerful Similarity Test*. **Journal of Computational and Graphical Statistics**. Accepted. 
+5. Zengjing Chen, Linglong Kong, Xiaodong Yan, Donglin Zeng, **Ce Zhang**, and Guodong Zhang. (2025). *Sequential Bootstrap for More Powerful Similarity Test*. **Journal of Computational and Graphical Statistics**. [link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2026.2652918). 
 
 6. **Ce Zhang**, Haiwu Huang, Dipankar Bandyopadhyay, Riyadh Rustam Al-Mosawi, and Xuewen Lu. (2025). *Sieve Estimation of the Additive Hazards Model with Bivariate Current Status Data*. **Statistics in Biosciences**. [link](https://link.springer.com/article/10.1007/s12561-024-09436-7)
 
