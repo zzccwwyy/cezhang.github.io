@@ -21,7 +21,7 @@ Predictive inference, Trustworthy machine learning, Conformal Predictions, Diffe
 
 6. **Ce Zhang**, Haiwu Huang, Dipankar Bandyopadhyay, Riyadh Rustam Al-Mosawi, and Xuewen Lu. (2025). *Sieve Estimation of the Additive Hazards Model with Bivariate Current Status Data*. **Statistics in Biosciences**. [link](https://link.springer.com/article/10.1007/s12561-024-09436-7)
 
-7. Andrei Afilipoaei, Venkata Shreya Kala, Jainish Mehta, **Ce Zhang**, Bei Jiang, and Linglong Kong. (2025). *Resolving Data Imbalance in Transfer Learning: A Simple Random Sampling Approach*. **Statistics and Computing**. [link](https://link.springer.com/article/10.1007/s11222-025-10811-7). 
+7. Andrei Afilipoaei, Venkata Shreya Kala, Jainish Mehta, **Ce Zhang**, Bei Jiang, and Linglong Kong. (2026). *Resolving Data Imbalance in Transfer Learning: A Simple Random Sampling Approach*. **Statistics and Computing**. [link](https://link.springer.com/article/10.1007/s11222-025-10811-7). 
 
 8. **Ce Zhang**, Peng Yu, Zhihua Su, Wenlu Tang, and Bei Jiang. (2026). *A Bayesian Approach for Data-Driven Clustering with Non-Ignorable Missingness*. **Statistics and Its Interface**. Accepted. 
 
